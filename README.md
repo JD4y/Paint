@@ -1,2 +1,2 @@
 # Paint
-Simple paint application using javafx
+Simple paint application using JavaFx
